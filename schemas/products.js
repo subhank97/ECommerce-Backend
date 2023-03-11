@@ -13,13 +13,8 @@ export default {
             }
         },
         {
-            name: 'title',
-            title: 'Title',
-            type: 'string'
-        },
-        {
-            name: 'author',
-            title: 'Author',
+            name: 'name',
+            title: 'Name',
             type: 'string'
         },
         {
